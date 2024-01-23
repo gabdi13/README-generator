@@ -5,7 +5,7 @@ function capitalizeFirstLetter(string) {
 }
 
 function generateLicenseBadge(license) {
-  // Add more license badges and URLs as needed
+  
   const licenseBadges = {
     "MIT License": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
     "Apache License 2.0": "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)",
