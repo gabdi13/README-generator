@@ -19,6 +19,8 @@ To readily use this application, it is essential you install the npm inquirer. A
 
 ## Usage
 Answer each prompt to build the sections of your README. For the license question you use the arrows to toggle between each option and then press enter.
+#### Walkthrough Video:
+https://drive.google.com/file/d/1n_U5EdtPnByW88Vdsbo4vLM4I8_OGOCK/view?usp=sharing
 
 ## Contributing
 At the moment I am not open to contributions as I am still working on further dveloping this beta first.
@@ -28,4 +30,4 @@ Input information as previously advised.
 
 ## License
 This project is licensed under the MIT License License - see the [LICENSE](LICENSE) file for details.
-  
+
